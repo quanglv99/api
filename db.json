@@ -1,37 +1,37 @@
 [
-{
-"rule_name":"Bình thường",
-"value":160,
-"color":"#47B39C",
-},
-{
-"rule_name":"Tạm ngừng hoạt động",
-"value":55,
-"color":"#D1D1D1",
-},
-{
-"rule_name":"Rò điện",
-"value":13,
-"color":"#FFC154",
-},
-{
-"rule_name":"Kết nối bằng 3G",
-"value":43,
-"color":"#4DCAF6",
-},
-{
-"rule_name":"Mất kết nối mạng",
-"value":22,
-"color":"#EBBABF",
-},
-{
-"rule_name":"Không SIM/Lỗi SIM",
-"value":20,
-"color":"#F13C59",
-},
-{
-"rule_name":"Mất điện lưới",
-"value":10,
-"color":"#EC6B56",
-},
+  {
+    "rule_name": "Bình thường",
+    "value": 160,
+    "color": "#47B39C"
+  },
+  {
+    "rule_name": "Tạm ngừng hoạt động",
+    "value": 55,
+    "color": "#D1D1D1"
+  },
+  {
+    "rule_name": "Rò điện",
+    "value": 13,
+    "color": "#FFC154"
+  },
+  {
+    "rule_name": "Kết nối bằng 3G",
+    "value": 43,
+    "color": "#4DCAF6"
+  },
+  {
+    "rule_name": "Mất kết nối mạng",
+    "value": 22,
+    "color": "#EBBABF"
+  },
+  {
+    "rule_name": "Không SIM/Lỗi SIM",
+    "value": 20,
+    "color": "#F13C59"
+  },
+  {
+    "rule_name": "Mất điện lưới",
+    "value": 10,
+    "color": "#EC6B56"
+  }
 ]
