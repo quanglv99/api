@@ -6,6 +6,20 @@
       "fullname": "Lo Van Quang",
       "jobcode": "4.1729",
       "position": "GD Chi nhánh",
+      "members": [
+        {
+          "id": 1,
+          "name": "Thành phần số 1"
+        },
+        {
+          "id": 2,
+          "name": "Thành phần số 2"
+        },
+        {
+          "id": 2,
+          "name": "Thành phần số 3"
+        }
+      ],
       "status": "Bình thường"
     },
     {
@@ -14,6 +28,7 @@
       "fullname": "Hoang Anh",
       "jobcode": "5.0112",
       "position": "TP Tài vụ",
+      "members": [],
       "status": "Bình thường"
     },
     {
@@ -22,6 +37,12 @@
       "fullname": "Pham Cuong",
       "jobcode": "5.1221",
       "position": "Phó GD Chi nhánh",
+      "members": [
+        {
+          "id": 2,
+          "name": "Thành phần số 2"
+        }
+      ],
       "status": "Bình thường"
     },
     {
@@ -30,6 +51,7 @@
       "fullname": "Nguyen Anh",
       "jobcode": "4.0297",
       "position": "Trưởng BQL",
+      "members": [],
       "status": "Bình thường"
     },
     {
@@ -38,6 +60,7 @@
       "fullname": "Nguyen Anh",
       "jobcode": "4.0297",
       "position": "Trưởng BQL",
+      "members": [],
       "status": "Bình thường"
     },
     {
@@ -46,6 +69,7 @@
       "fullname": "Nguyen Anh",
       "jobcode": "4.0297",
       "position": "Trưởng BQL",
+      "members": [],
       "status": "Bình thường"
     }
   ]
